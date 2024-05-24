@@ -3,9 +3,16 @@ import './Businesscard.css';
 
 const Businesscard = () => {
   return (
-    <div className="business-card">
-      Your business card
-    </div>
+    <a href='https://houcem-dev.netlify.app' target="_blank">
+      <div class="box">
+        <div class="avatar">
+        </div>
+        <div class="content">
+          Hi, I'm Houcem Damak <br />
+          Click on me to learn more!
+        </div>
+      </div>
+    </a>
   );
 };
 
