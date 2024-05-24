@@ -1,7 +1,14 @@
 # Business Card React App
 
-This project is a simple React application that displays a business card styled box in the center of the screen. The text inside the box reads "Your business card".
-Please check the dedicated Notion page for further instructions on this project.
+This project is forked from the original Business Card project.
+
+
+## Styling Options
+
+I used a dark color palette for easier reading.
+Put the entire card in a redirecting anchor to my portfolio.
+Used an avatar I found online.
+Kept it all minimalistic so it's nice and dandy.
 
 ## Prerequisites
 
